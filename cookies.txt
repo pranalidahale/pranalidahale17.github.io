@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+slimhamdi.net	TRUE	/	FALSE	1999999999	300gpBAK	R4178754378
+slimhamdi.net	TRUE	/	FALSE	1999999999	300gp	R3395873656
+
